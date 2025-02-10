@@ -185,6 +185,7 @@ if ($tanggal_awal == $tanggal_akhir) {
                         <a class="collapse-item" href="VRiwayatPiutang">Riwayat Piutang</a>
                         <a class="collapse-item" href="VLaporanSetoran">Laporan Setoran</a>
                         <a class="collapse-item" href="VLaporanInventory">Laporan Inventory</a>
+                        <a class="collapse-item" href="VReturPenjualan">Retur Penjualan</a>
                     </div>
                 </div>
             </li>

@@ -257,6 +257,8 @@ while ($data6 = mysqli_fetch_array($table6)) {
                         <a class="collapse-item" href="VRiwayatPiutang">Riwayat Piutang</a>
                         <a class="collapse-item" href="VLaporanSetoran">Laporan Setoran</a>
                         <a class="collapse-item" href="VLaporanInventory">Laporan Inventory</a>
+                        <a class="collapse-item" href="VReturPenjualan">Retur Penjualan</a>
+                        
                     </div>
                 </div>
             </li>
